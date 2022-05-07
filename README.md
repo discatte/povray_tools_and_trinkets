@@ -1,4 +1,4 @@
-# povray tools and trinkets
+# POV-Ray Tools and Trinkets 🛠️🔺🟢💎
 a collection of old povray tools from various sources (newsgroup, cdrom, oldweb)
 
 ##### SoftText
